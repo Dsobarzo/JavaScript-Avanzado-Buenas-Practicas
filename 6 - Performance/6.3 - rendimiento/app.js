@@ -6,5 +6,5 @@ var l = animales.length;
 for (var i = 0; i < 10000; i++) {
     animales[i] = i;
 }
-
+//rendimiento
 console.timeEnd('revisión')
